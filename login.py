@@ -1,6 +1,6 @@
 import requests
 import json
-
+#ekleme
 requests.packages.urllib3.disable_warnings()
 
 def get_token():
